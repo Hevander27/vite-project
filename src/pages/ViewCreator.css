@@ -1,0 +1,72 @@
+.view-creator {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.view-creator h2 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.creator-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.view-creator p {
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+
+.view-creator strong {
+    color: #555;
+}
+
+.view-creator a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.view-creator a:hover {
+    text-decoration: underline;
+}
+
+.creator-actions {
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+}
+
+.edit-button, .back-button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.edit-button {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.edit-button:hover {
+    background-color: #45a049;
+}
+
+.back-button {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.back-button:hover {
+    background-color: #e0e0e0;
+}
