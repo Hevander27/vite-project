@@ -1,10 +1,10 @@
-# WEB103 Prework - *👉🏿 Creatorverse*
+# WEB103 Prework - *Creatorverse*
 
-Submitted by: **👉🏿 Hevander Da Costa**
+Submitted by: **Hevander Da Costa**
 
-About this web app: **👉🏿 The purpose of your app is to share at least five creators you think are worth following and give yourself the ability to create, update, and delete creators. **
+About this web app: ** The purpose of your app is to share at least five creators you think are worth following and give yourself the ability to create, update, and delete creators. **
 
-Time spent: **12 X** hours
+Time spent: **12** hours
 
 ## Required Features
 
@@ -35,10 +35,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Screen%20Recording%20-%20Aug%2027%2C%202024](https://github.com/user-attachments/assets/0f0ff695-014f-4007-80c7-c6642fc288de)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  👉🏿 GIF tool here
+GIF created with ...  https://www.veed.io/
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
