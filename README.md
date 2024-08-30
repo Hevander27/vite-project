@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Screen%20Recording%20-%20Aug%2027%2C%202024](https://github.com/user-attachments/assets/0f0ff695-014f-4007-80c7-c6642fc288de)
+![Screen%20Recording%20-%20Aug%2030%2C%202024](https://github.com/user-attachments/assets/7671d4ec-d56a-4224-9b8a-f8b951baacf6)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
